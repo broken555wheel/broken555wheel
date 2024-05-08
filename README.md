@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning.<br>👯 I’m looking to collaborate on web and app development.<br>🤝 I’m looking for help with finding my footing in the field.<br>🌱 I’m currently learning backend development.<br>⚡ Fun fact: I'm a Pisces.
+🔭 I’m currently working on a farm and farm produce mapping and delivery project.<br>👯 I’m looking to collaborate on web and app development.<br>🤝 I’m looking for help with finding my footing in the field.<br>🌱 I’m currently learning backend development.<br>⚡ Fun fact: I'm a Pisces.
 
 
 # 💻 Tech Stack:
