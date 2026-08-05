@@ -13,9 +13,9 @@
 
 I'm a software developer, with hands-on experience across web development, mobile apps, and machine learning.
 
-- 🔭 **Currently working on:** full-stack web apps and ai/ml
-- 🌱 **Currently learning:** deep learning
-- 👯 **Looking to collaborate on:** Open-source ai/ml projects
+- **Currently working on:** full-stack web apps and ai/ml
+- **Currently learning:** deep learning
+- **Looking to collaborate on:** Open-source ai/ml projects
 
 ---
 
